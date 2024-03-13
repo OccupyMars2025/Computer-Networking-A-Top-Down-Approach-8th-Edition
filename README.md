@@ -1,4 +1,4 @@
-## 2024/2/28: Concentrate my firepower and the first battle begins
+## 2024/2/28: start
 # ==================
 # Reference:
 ## [the official website of this textbook](https://gaia.cs.umass.edu/kurose_ross/index.php)
