@@ -1,5 +1,6 @@
 ## 2024/2/28: start
 ## TODO: Software-defined networking
+## TODO: Students not only see how popular applications and protocols work, but also learn how easy it is to create their own network applications and application-layer protocols
 - [ ] Chapter 1: 
 # ==================
 # Reference:
