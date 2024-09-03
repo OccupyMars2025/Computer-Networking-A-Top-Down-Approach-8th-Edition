@@ -1,6 +1,8 @@
 ## 2024/2/28: start
-## TODO: Software-defined networking
-## TODO: Students not only see how popular applications and protocols work, but also learn how easy it is to create their own network applications and application-layer protocols
+
+TODO: Software-defined networking 
+
+TODO: Students not only see how popular applications and protocols work, but also learn how easy it is to create their own network applications and application-layer protocols
 
 TODO: Programming assignments. The Website also provides a number of detailed
 programming assignments, which include building a multithreaded Web server,
@@ -9,7 +11,7 @@ receiver sides of a reliable data transport protocol, programming a distributed
 routing algorithm, and more.   
 
 
-• Wireshark labs. One’s understanding of network protocols can be greatly
+TODO: Wireshark labs. One’s understanding of network protocols can be greatly
 deepened by seeing them in action. The Website provides numerous Wireshark
 assignments that enable students to actually observe the sequence of messages
 exchanged between two protocol entities. The Website includes separate Wire-
