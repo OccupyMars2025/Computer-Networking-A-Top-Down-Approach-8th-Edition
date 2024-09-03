@@ -6,7 +6,9 @@ TODO: Programming assignments. The Website also provides a number of detailed
 programming assignments, which include building a multithreaded Web server,
 building an e-mail client with a GUI interface, programming the sender and
 receiver sides of a reliable data transport protocol, programming a distributed
-routing algorithm, and more.
+routing algorithm, and more.   
+
+
 • Wireshark labs. One’s understanding of network protocols can be greatly
 deepened by seeing them in action. The Website provides numerous Wireshark
 assignments that enable students to actually observe the sequence of messages
