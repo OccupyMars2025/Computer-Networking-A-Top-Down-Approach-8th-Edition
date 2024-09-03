@@ -38,3 +38,9 @@ that illustrate the concepts and protocols in this book. If you have an animatio
 you think would be appropriate for this text, please submit it to us. If the animation
 (including notation and terminology) is appropriate, we’ll be happy to include it on
 the text’s Website, with an appropriate reference to the animation’s authors.
+
+TODO: So, as the saying goes, “Keep those cards and letters coming!” Seriously, please
+do continue to send us interesting URLs, point out typos, disagree with any of our
+claims, and tell us what works and what doesn’t work. Tell us what you think should
+or shouldn’t be included in the next edition. Send your e-mail to kurose@cs.umass
+.edu and keithwross@nyu.edu.
