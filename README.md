@@ -1,6 +1,6 @@
 ## 2024/2/28: start
 
-- [ ] 2024/9/3 7:50- : Chapter 1: 
+- [ ] 2024/9/3 7:50- : (page 31-111)Chapter 1: Computer Networks and the Internet
 # ==================
 # Reference:
 ## [the official website of this textbook](https://gaia.cs.umass.edu/kurose_ross/index.php)
