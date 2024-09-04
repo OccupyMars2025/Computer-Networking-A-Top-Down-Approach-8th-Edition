@@ -1,4 +1,6 @@
 ## 2024/2/28: start
+## Mastering the field of computer networking is equivalent to understanding the what, why, and how of networking protocols
+
 
 - [ ] 2024/9/3 7:50- : (page 31-111)Chapter 1: Computer Networks and the Internet
 
