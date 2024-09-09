@@ -1,5 +1,8 @@
 ## 2024/2/28: start
 ## Mastering the field of computer networking is equivalent to understanding the what, why, and how of networking protocols
+## On one hand, it is unfortunate that the physical laws of reality introduce delay and loss as well as constrain throughput. On the other hand, because computer networks have these problems, there are many fascinating issues surrounding how to deal with the problems—more than enough issues to fill a course on computer networking and to motivate thousands of PhD theses!
+# 伟大而艰巨的事业总是让人热血沸腾
+# Great and arduous undertakings always make people excited !
 
 
 - [ ] 2024/9/3 7:50- : (page 31-111)Chapter 1: Computer Networks and the Internet
