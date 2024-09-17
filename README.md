@@ -54,3 +54,9 @@ do continue to send us interesting URLs, point out typos, disagree with any of o
 claims, and tell us what works and what doesn’t work. Tell us what you think should
 or shouldn’t be included in the next edition. Send your e-mail to kurose@cs.umass
 .edu and keithwross@nyu.edu.
+
+TODO: Professors teaching a networking course have been known to assign
+lab exercises that involve writing a packet-sniffing and application-layer data recon-
+struction program. Indeed, the Wireshark [Wireshark 2020] labs associated with this
+text (see the introductory Wireshark lab at the end of this chapter) use exactly such
+a packet sniffer!
