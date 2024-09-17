@@ -12,6 +12,7 @@
 
 - [ ] 2024/9/3 7:50- : (page 31-111)Chapter 1: Computer Networks and the Internet
 ## Question: What can you do to defend against DoS attacks? 
+## The first chapter in itself constitutes a mini-course in computer networking
 
 ---
 
