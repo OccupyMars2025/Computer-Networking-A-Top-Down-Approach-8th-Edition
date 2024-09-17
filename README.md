@@ -60,3 +60,12 @@ lab exercises that involve writing a packet-sniffing and application-layer data 
 struction program. Indeed, the Wireshark [Wireshark 2020] labs associated with this
 text (see the introductory Wireshark lab at the end of this chapter) use exactly such
 a packet sniffer!
+
+TODO: The ability to inject packets into the
+Internet with a false source address is known as IP spoofing, and is but one of many
+ways in which one user can masquerade as another user.
+To solve this problem, we will need end-point authentication, that is, a mech-
+anism that will allow us to determine with certainty if a message originates from
+where we think it does. Once again, we encourage you to think about how this
+can be done for network applications and protocols as you progress through the
+chapters of this book.
