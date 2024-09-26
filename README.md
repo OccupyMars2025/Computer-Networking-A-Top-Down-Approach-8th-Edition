@@ -10,7 +10,10 @@
 # Great and arduous undertakings always make people excited !
 
 
-- [ ] 2024/9/3 7:50- : (page 31-111)Chapter 1: Computer Networks and the Internet
+- [x] 2024/9/3 7:50- 9/26 15:30: (page 31-111)Chapter 1: Computer Networks and the Internet, (why so slow? There are many exercises in Chapter 1. I love it !)
+- [ ] 9/26 15:30 - : (page 111-211) Chapter 2: Application Layer
+
+
 ## Question: What can you do to defend against DoS attacks? 
 ## The first chapter in itself constitutes a mini-course in computer networking
 
