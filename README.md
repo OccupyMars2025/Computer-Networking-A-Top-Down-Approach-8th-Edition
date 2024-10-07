@@ -12,6 +12,9 @@
 
 - [x] 2024/9/3 7:50- 9/26 15:30: (page 31-111)Chapter 1: Computer Networks and the Internet, (why so slow? There are many exercises in Chapter 1. I love it !)
 - [ ] 9/26 15:30 - : (page 111-211) Chapter 2: Application Layer
+  - [x] 9/26 15:30 - 10/4: HTTP, SMTP, DNS sections in the book
+  - [x] 10/4 - 10/7 13:00: 2.1, 2.2, HTTP video tutorials
+  - [ ] 10/7 13:00 - : 2.3, email, SMTP video tutorials
 
 
 ## Question: What can you do to defend against DoS attacks? 
