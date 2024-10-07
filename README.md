@@ -14,7 +14,8 @@
 - [ ] 9/26 15:30 - : (page 111-211) Chapter 2: Application Layer
   - [x] 9/26 15:30 - 10/4: HTTP, SMTP, DNS sections in the book
   - [x] 10/4 - 10/7 13:00: 2.1, 2.2, HTTP video tutorials
-  - [ ] 10/7 13:00 - : 2.3, email, SMTP video tutorials
+  - [x] 10/7 13:00 - 15:45 : 2.3, email, SMTP video tutorials
+  - [ ] 10/7 15:45 - : 2.4, DNS video tutorials, Domain Name System
 
 
 ## Question: What can you do to defend against DoS attacks? 
