@@ -4,6 +4,7 @@
 
 ## 2024/2/28: start
 # [Ph.D. in mathematics from MIT, 	Applied mathematics, CEO of Akamai Technologies](https://en.wikipedia.org/wiki/F._Thomson_Leighton)
+# [Publications, some are related to "quantum"](https://gaia.cs.umass.edu/networks/publications.html)
 ## Mastering the field of computer networking is equivalent to understanding the what, why, and how of networking protocols
 ## On one hand, it is unfortunate that the physical laws of reality introduce delay and loss as well as constrain throughput. On the other hand, because computer networks have these problems, there are many fascinating issues surrounding how to deal with the problems—more than enough issues to fill a course on computer networking and to motivate thousands of PhD theses!
 ## In fact, queuing delay is so important and interesting in computer networking that thousands of papers and numerous books have been written about it [Bertsekas 1991; Kleinrock 1975, Kleinrock 1976]. 
