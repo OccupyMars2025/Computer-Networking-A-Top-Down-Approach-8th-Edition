@@ -18,8 +18,9 @@
   - [x] 10/4 - 10/7 13:00: 2.1, 2.2, HTTP video tutorials
   - [x] 10/7 13:00 - 15:45 : 2.3, email, SMTP video tutorials
   - [x] 10/7 15:45 - 10/8 11:20 : 2.4, DNS video tutorials, Domain Name System, Knowledge checks, Problems
-  - [ ] 10/8 11:20 - : 2.5, Peer-to-Peer File Distribution, read the textbook, page 166-  (use some math to compare client-server architecture with p2p architecture. It is thrilling to finally see some math after reading many pages of text. I love it.)
+  - [x] 10/8 11:20 - 20:40 : 2.5, Peer-to-Peer File Distribution, read the textbook, page 166-173  (use some math to compare client-server architecture with p2p architecture. It is thrilling to finally see some math after reading many pages of text. I love it.) Problems
 # The ability to skillfully apply math to solve problems is what sets a computer scientist apart from a programmer.
+  - [ ] 10/8 20:40 - : 2.6, Video Streaming and Content Distribution Networks, read the textbook, page 173-
 
 
 ## Question: What can you do to defend against DoS attacks? 
