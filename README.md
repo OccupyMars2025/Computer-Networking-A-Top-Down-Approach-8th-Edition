@@ -19,7 +19,9 @@
   - [x] 10/7 13:00 - 15:45 : 2.3, email, SMTP video tutorials
   - [x] 10/7 15:45 - 10/8 11:20 : 2.4, DNS video tutorials, Domain Name System, Knowledge checks, Problems
   - [x] 10/8 11:20 - 20:40 : 2.5, Peer-to-Peer File Distribution, read the textbook, page 166-173  (use some math to compare client-server architecture with p2p architecture. It is thrilling to finally see some math after reading many pages of text. I love it.) Problems
-  - [ ] 10/8 20:40 - : 2.6, Video Streaming and Content Distribution Networks, read the textbook, page 173-
+  - [ ] 10/8 20:40 - 10/9 16:20: 2.6, Video Streaming and Content Distribution Networks, read the textbook, page 173-182
+  - [ ] 10/9 16:20 - : 2.6, video tutorials, Knowledge checks
+
      
 
 
