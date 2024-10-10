@@ -23,7 +23,8 @@
   - [x] 10/8 11:20 - 20:40 : 2.5, Peer-to-Peer File Distribution, read the textbook, page 166-173  (use some math to compare client-server architecture with p2p architecture. It is thrilling to finally see some math after reading many pages of text. I love it.) Problems
   - [x] 10/8 20:40 - 10/9 16:20: 2.6, Video Streaming and Content Distribution Networks, read the textbook, page 173-182
   - [x] 10/9 16:20 - 18:40: 2.6, video tutorials, Knowledge checks
-  - [ ] 10/9 18:40 - : 2.7, Socket Programming: Creating Network Applications, read the textbook, page 182-
+  - [x] 10/9 18:40 - 10/10 16:20: 2.7, Socket Programming: Creating Network Applications, read the textbook, page 182-195
+  - [ ] 10/10 16:20 - : 2.7, video, Knowledge checks
 
      
 
