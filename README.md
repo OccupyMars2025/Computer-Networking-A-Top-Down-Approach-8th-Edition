@@ -3,6 +3,8 @@
 
 
 ## 2024/2/28: start
+# page 195: Finally, we hope someday, after mastering these and more advanced socket programs, you will write your own popular network application, become very rich and famous, and remember the authors of this textbook!
+
 # [Ph.D. in mathematics from MIT, 	Applied mathematics, CEO of Akamai Technologies](https://en.wikipedia.org/wiki/F._Thomson_Leighton)
 # [Publications, some are related to "quantum"](https://gaia.cs.umass.edu/networks/publications.html)
 ## Mastering the field of computer networking is equivalent to understanding the what, why, and how of networking protocols
