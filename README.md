@@ -24,7 +24,8 @@
   - [x] 10/8 20:40 - 10/9 16:20: 2.6, Video Streaming and Content Distribution Networks, read the textbook, page 173-182
   - [x] 10/9 16:20 - 18:40: 2.6, video tutorials, Knowledge checks
   - [x] 10/9 18:40 - 10/10 16:20: 2.7, Socket Programming: Creating Network Applications, read the textbook, page 182-195
-  - [ ] 10/10 16:20 - : 2.7, video, Knowledge checks
+  - [x] 10/10 16:20 - 10/11 10:25: 2.7, video, Knowledge checks
+  - [ ] 10/11 10:25 - : 2.8, video, Supplemental topics, Web tracking, 3rd party cookies, GDPR
 
      
 
