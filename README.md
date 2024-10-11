@@ -25,7 +25,8 @@
   - [x] 10/9 16:20 - 18:40: 2.6, video tutorials, Knowledge checks
   - [x] 10/9 18:40 - 10/10 16:20: 2.7, Socket Programming: Creating Network Applications, read the textbook, page 182-195
   - [x] 10/10 16:20 - 10/11 10:25: 2.7, video, Knowledge checks
-  - [ ] 10/11 10:25 - : 2.8, video, Supplemental topics, Web tracking, 3rd party cookies, GDPR
+  - [x] 10/11 10:25 - 11:10: 2.8, video, Supplemental topics, Web tracking, 3rd party cookies, GDPR
+  - [ ] 10/11 11:10 - : Chapter 2 Homework Problems and Questions
 
      
 
