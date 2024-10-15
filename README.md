@@ -27,7 +27,7 @@
   - [x] 10/10 16:20 - 10/11 10:25: 2.7, video, Knowledge checks
   - [x] 10/11 10:25 - 11:10: 2.8, video, Supplemental topics, Web tracking, 3rd party cookies, GDPR
   - [x] 10/11 11:10 - 10/13 18:00: Chapter 2 Homework Problems and Questions, R1-R27
-  - [x] 10/13 18:00 - 10/14 13:40: Chapter 2 Homework Problems and Questions, P1-P8
+  - [x] 10/13 18:00 - 10/15 19:30: Chapter 2 Homework Problems and Questions, P1-P18
 
      
 
