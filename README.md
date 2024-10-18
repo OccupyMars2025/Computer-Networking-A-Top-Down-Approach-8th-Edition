@@ -28,7 +28,8 @@
   - [x] 10/11 10:25 - 11:10: 2.8, video, Supplemental topics, Web tracking, 3rd party cookies, GDPR
   - [x] 10/11 11:10 - 10/13 18:00: Chapter 2 Homework Problems and Questions, R1-R27
   - [x] 10/13 18:00 - 10/16 19:00: Chapter 2 Homework Problems and Questions, P1-P32
-  - [x] 10/16 19:00 - 10/17 13:35: Chapter 2, Socket Programming Assignments, Assignment 1 - Assignment 2
+  - [x] 10/16 19:00 - 10/18 19:45: Chapter 2, Socket Programming Assignments, Assignment 1 - Assignment 4
+  - [ ] 10/18 19:45 - : Chapter 2, wireshark labs: HTTP
 
      
 
