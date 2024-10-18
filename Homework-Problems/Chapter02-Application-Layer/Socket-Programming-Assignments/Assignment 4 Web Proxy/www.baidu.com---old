@@ -1,0 +1,18 @@
+HTTP/1.1 302 Moved Temporarily
+Server: bfe/1.0.8.18
+Date: Fri, 18 Oct 2024 09:12:50 GMT
+Content-Type: text/html
+Content-Length: 161
+Connection: Close
+Location: https://www.baidu.com/
+Expires: Sat, 19 Oct 2024 09:12:50 GMT
+Cache-Control: max-age=86400
+Cache-Control: privae
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>bfe/1.0.8.18</center>
+</body>
+</html>
