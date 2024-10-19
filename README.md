@@ -1,6 +1,8 @@
 
 # <p align="center"> *Welcome to the world of modern computer networking!* </p>
 
+# “Tell me and I forget. Show me and I remember. Involve me and I understand.” --- Chinese proverb
+
 
 ## 2024/2/28: start
 # page 195: Finally, we hope someday, after mastering these and more advanced socket programs, you will write your own popular network application, become very rich and famous, and remember the authors of this textbook!
