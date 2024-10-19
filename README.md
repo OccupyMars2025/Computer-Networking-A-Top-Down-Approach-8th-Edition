@@ -17,7 +17,7 @@
 
 
 - [x] 2024/9/3 7:50- 9/26 15:30: (page 31-111)Chapter 1: Computer Networks and the Internet, (why so slow? There are many exercises in Chapter 1. I love it !)
-- [ ] 9/26 15:30 - : (page 111-211) Chapter 2: Application Layer
+- [x] 9/26 15:30 - 10/19 22:30 : (page 111-211) Chapter 2: Application Layer
   - [x] 9/26 15:30 - 10/4: HTTP, SMTP, DNS sections in the book
   - [x] 10/4 - 10/7 13:00: 2.1, 2.2, HTTP video tutorials
   - [x] 10/7 13:00 - 15:45 : 2.3, email, SMTP video tutorials
@@ -31,8 +31,8 @@
   - [x] 10/11 11:10 - 10/13 18:00: Chapter 2 Homework Problems and Questions, R1-R27
   - [x] 10/13 18:00 - 10/16 19:00: Chapter 2 Homework Problems and Questions, P1-P32
   - [x] 10/16 19:00 - 10/18 19:45: Chapter 2, Socket Programming Assignments, Assignment 1 - Assignment 4
-  - [ ] 10/18 19:45 - : Chapter 2, wireshark labs: HTTP
-
+  - [x] 10/18 19:45 - 10/19 22:30: Chapter 2, wireshark labs: HTTP, DNS
+- [ ] 10/19 22:30 - : Chapter 3: Transport Layer
      
 
 
