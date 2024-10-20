@@ -33,7 +33,7 @@
   - [x] 10/16 19:00 - 10/18 19:45: Chapter 2, Socket Programming Assignments, Assignment 1 - Assignment 4
   - [x] 10/18 19:45 - 10/19 22:30: Chapter 2, wireshark labs: HTTP, DNS
 - [ ] 10/19 22:30 - : Chapter 3: Transport Layer, page
-  - [ ] 10/19 22:30 - : section 3.1: Introduction and Transport-layer Services, page 211-217
+  - [x] 10/19 22:30 - 10/20 16:37: section 3.1: Introduction and Transport-layer Services, page 211-217, video tutorials
      
 
 
