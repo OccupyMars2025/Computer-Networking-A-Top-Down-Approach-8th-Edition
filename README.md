@@ -32,7 +32,8 @@
   - [x] 10/13 18:00 - 10/16 19:00: Chapter 2 Homework Problems and Questions, P1-P32
   - [x] 10/16 19:00 - 10/18 19:45: Chapter 2, Socket Programming Assignments, Assignment 1 - Assignment 4
   - [x] 10/18 19:45 - 10/19 22:30: Chapter 2, wireshark labs: HTTP, DNS
-- [ ] 10/19 22:30 - : Chapter 3: Transport Layer
+- [ ] 10/19 22:30 - : Chapter 3: Transport Layer, page
+  - [ ] 10/19 22:30 - : section 3.1: INTROduCTION ANd TRANSPORT-LAYER SERvICES, page  211-217
      
 
 
